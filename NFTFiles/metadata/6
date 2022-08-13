@@ -1,0 +1,14 @@
+{
+  "image": "ipfs://QmYje9oZSTsvXrEZwYYB7cm8wnogNDM3JThmcoUBboVyJn/6.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Dog",
+      "value": "Australian Shepherd"
+    }
+  ],
+  "name": "Purple Aussie"
+}

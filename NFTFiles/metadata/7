@@ -1,0 +1,14 @@
+{
+  "image": "ipfs://QmYje9oZSTsvXrEZwYYB7cm8wnogNDM3JThmcoUBboVyJn/7.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Dog",
+      "value": "Australian Shepherd"
+    }
+  ],
+  "name": "Red Aussie"
+}

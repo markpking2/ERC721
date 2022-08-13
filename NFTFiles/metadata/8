@@ -1,0 +1,14 @@
+{
+  "image": "ipfs://QmYje9oZSTsvXrEZwYYB7cm8wnogNDM3JThmcoUBboVyJn/8.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Dog",
+      "value": "Australian Shepherd"
+    }
+  ],
+  "name": "White Aussie"
+}

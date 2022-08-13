@@ -1,0 +1,14 @@
+{
+  "image": "ipfs://QmYje9oZSTsvXrEZwYYB7cm8wnogNDM3JThmcoUBboVyJn/5.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Dog",
+      "value": "Australian Shepherd"
+    }
+  ],
+  "name": "Pink Aussie"
+}
